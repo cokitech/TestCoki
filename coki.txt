@@ -20,3 +20,8 @@ programing
 java 
 php
 python
+ksc 
+sck bsc
+sck bs
+sl 
+
